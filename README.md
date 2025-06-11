@@ -14,5 +14,9 @@
 ## 푸터
 - footer.md 파일 추가
 
+## 사이드바
+- sidebar.md 파일 추가
+
 ## 검색
 - search.md 파일 추가
+- 
